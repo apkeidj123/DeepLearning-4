@@ -1,5 +1,5 @@
 # DeepLearning-4
-Recurrent Neural Network
+## Recurrent Neural Network
 
 1. Gated recurrent neuralnetwork
 * Recurrent structures are useful while dealing with sequential data. Train a model to classify movie reviews in IMDb dataset into good reviews (label 1) and bad reviews (label 0). We treat each review as a sample in the dataset with 120 "time points" (words) and use them as inputs.
