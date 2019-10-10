@@ -659,7 +659,7 @@ plt.savefig('output/' + file + '/Accuracy.jpg')
 plt.show()
 plt.clf()
 
-file = open('test_107062512.txt', 'w', encoding='utf-8')
+file = open('test_QQ.txt', 'w', encoding='utf-8')
 
 file.write(result)
 
