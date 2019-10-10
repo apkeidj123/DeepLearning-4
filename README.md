@@ -17,16 +17,16 @@ RNN:
 LSTM:
 
 ![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/lstm/Accuracy.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/rnn/Loss.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/rnn/PRC.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/rnn/ROC.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/lstm/Loss.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/lstm/PRC.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final2LSTM/lstm/ROC.jpg)
 
 GRU:
 
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/rnn/Accuracy.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/rnn/Loss.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/rnn/PRC.jpg)
-![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/rnn/ROC.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/gru/Accuracy.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/gru/Loss.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/gru/PRC.jpg)
+![image](https://github.com/apkeidj123/DeepLearning-4/blob/master/Final3GRU/gru/ROC.jpg)
 
 
 2. Sequence-to-sequence learning
